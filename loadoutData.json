@@ -749,7 +749,7 @@
         },
         {
             "passive": "Unflinching",
-            "passive-description": "Reduces the amount of aim punch from taking damage while firing a weapon by 95%, reducing the amount of camera shake along with it. Also decreases the amount of time required for your Helldiver to maniacly laugh while constinuously firing their weapon by 1 second."
+            "passive-description": "Reduces the amount of aim punch from taking damage while firing a weapon by 95%, reducing the amount of camera shake along with it. Also decreases the amount of time required for your Helldiver to maniacly laugh while constinuously firing their weapon by 1 second. Provides a higher armor rating. Markers placed on the map will generate radar scans every 2.0s."
         },
         {
             "passive": "Acclimated",
@@ -761,7 +761,7 @@
         },
         {
             "passive": "Integrated Explosives",
-            "passive-description": "Armor explodes 1.5s after the wearer dies."
+            "passive-description": "Armor explodes 1.5s after the wearer dies. Increases initial inventory and holding capacity of throwables by +2."
         },
         {
             "passive": "Reinforced Epaulettes",
